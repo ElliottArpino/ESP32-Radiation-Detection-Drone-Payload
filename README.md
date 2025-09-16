@@ -20,6 +20,12 @@ Autonomous drone payload system for radiation monitoring, built using ESP32, Gei
 - MATLAB visualization of radiation intensity over geolocation
 - Lightweight and low-cost design (under 300g and $50)
 
+## Testing and Results
+
+The casing of the payload, housing the ESP32, Geiger-Müller counter, GPS, SD card, battery, and wiring.
+
+ ![Payload_Casing](Images_and_Plots/Payload_Casing.png)
+
 ## Authors
 - Elliott Arpino  
 - Khadeeja Azizi  
