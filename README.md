@@ -29,9 +29,19 @@ It features a rotate-to-lock attachment mechanism, allowing quick and secure ins
 *Payload Casing and Attachment*
 
  ![Payload_Assembley](Images_and_Plots/payload_assembley.png)  
-*Payload CAD assembley view*
+*Payload CAD Assembley View*
 
 ## Results / Testing
+
+The results of the testing was highly successful. Not only was the payload able to accurately detect and measure radiation, but it was also able to livestream the live-
+radiation data, along with its geographical positioning over a Wi-Fi connection, as it was being flown attached to the drone. All the important data was successively 
+transmitted to the ground-station as it was being gathered. Below are some figures of these results.
+
+ ![Radiation Map](Images_and_Plots/radiation_map.png)  
+*Radiation Map of Drone Test Flight around school campus*
+
+ ![Cs-137 Radiation Test](Images_and_Plots/radiation_test.png)  
+*Radiation Detection and Measurement Test of Payload using Cs-137*
 
 ## Authors
 - Elliott Arpino  
