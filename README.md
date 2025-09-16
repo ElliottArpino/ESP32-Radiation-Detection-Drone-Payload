@@ -20,13 +20,18 @@ Autonomous drone payload system for radiation monitoring, built using ESP32, Gei
 - MATLAB visualization of radiation intensity over geolocation
 - Lightweight and low-cost design (under 300g and $50)
 
-## Testing and Results
+## Payload
 
 The payload casing is designed to house the ESP32 microcontroller, Geiger–Müller counter, GPS module, SD card, battery, and internal wiring. 
 It features a rotate-to-lock attachment mechanism, allowing quick and secure installation or removal from the drone. It was entirely 3D printed.
 
  ![Payload_Casing](Images_and_Plots/payload_casing.png)  
 *Payload Casing and Attachment*
+
+ ![Payload_Assembley](Images_and_Plots/payload_assembley.png)  
+*Payload CAD assembley view*
+
+## Results / Testing
 
 ## Authors
 - Elliott Arpino  
