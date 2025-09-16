@@ -26,6 +26,7 @@ The payload casing is designed to house the ESP32 microcontroller, Geiger–Mül
 It features a rotate-to-lock attachment mechanism, allowing quick and secure installation or removal from the drone.
 
  ![Payload_Casing](Images_and_Plots/payload_casing.png)
+
 *Payload Casing and Attachment*
 
 ## Authors
